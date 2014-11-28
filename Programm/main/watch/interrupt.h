@@ -53,7 +53,7 @@ ISR(TIMER2_OVF_vect)              //Timer-Interrupt
                                   //alert the user
         }
     }
-    #ifndef TOUCH
+    #ifdef TOUCH
     if(used>TIMEOUT)              //Check if the time since the last interaction is longer than the timeout (standby)
       analogWrite(3, LOW_BRIGHTNESS);//Lower the brightness
     else                          //If the time since the last interaction is smaller than the timeout (means still active)
