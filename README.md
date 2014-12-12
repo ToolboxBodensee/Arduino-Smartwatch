@@ -21,7 +21,11 @@
   <h2>App</h2>
   At the moment there is only an Android app. It works on devices with at least android 4.3. To get the notifications working you have to enable the app to read notification (Settings->Security->Notification Access).<br>
   You can build the app using the latest (1.0) version of android studio.
-  
+
+  <h2>Case UNTESTED</h2>
+  There is a 3d-printable case for the watch it consists of 2 Parts (main part and a part of the watch band).
+  The complete case should be printed using the ninja-flex filament.
+
   <h2>Support the project</h2>
   If you like the code help me getting this even better
   by sponsoring me. <br>
