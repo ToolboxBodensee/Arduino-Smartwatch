@@ -1,5 +1,5 @@
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/microcontroller/Arduino-Smartwatch). Auf GitHub befindet sich lediglich ein Mirror**
 <h1>Arduino-Smartwatch</h1>
-  **Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/microcontroller/Arduino-Smartwatch). Auf GitHub befindet sich lediglich ein Mirror**
   <h2>Files:</h2>
   <p>watch.ino:        The main file and the main logic</p>
   <p>const.h:        Just some constants for quick modifications</p>
